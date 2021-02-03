@@ -1,2 +1,3 @@
 Hi This new file adding in dev branch
+i am adding line on master branch.
 
